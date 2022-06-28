@@ -31,3 +31,10 @@ tsc script.ts
 ```
 
 TypeScript compiler will compile the typescript code into JavaScript.
+
+
+## How to set up TypeScript config file
+At first, we need to create a config file. To create a config file, we need to run the following command:
+```bash
+tsc --init
+```
