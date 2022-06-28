@@ -1,1 +1,2 @@
-console.log("Hello typescript");
+const word = "Hello World!";
+console.log(word);

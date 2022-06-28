@@ -1,1 +1,2 @@
-console.log("Hello typescript");
+var word = "Hello World!";
+console.log(word);
